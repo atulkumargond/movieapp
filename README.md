@@ -1,2 +1,2 @@
 # movieapp
-A movie webApp providing users information  about movies.
+A movie webApp providing movie information to users.
